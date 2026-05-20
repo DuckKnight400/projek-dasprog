@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "nama": "Onten",
+    "alamat": "Jl. Komunitas Blk. A1 - A2 No.35, Rw. Buntu, Kec. Serpong, Kota Tangerang Selatan, Banten 15318",
+    "jam_operasional": "Senin-Kamis 07.00-22.00, Jumat-Minggu 07.00-23.00",
+    "fasilitas": [
+      "rooftop"
+    ],
+    "min_harga": 50000,
+    "max_harga": 75000,
+    "suasana": [
+      "cozy"
+    ],
+    "menu": {},
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "nama": "Oddy's Coffee & Eatery",
+    "alamat": "Jl. Rawa Buntu Selatan No.35 Blok E1, RT.6/RW.2, Rw. Buntu, Kec. Serpong, Kota Tangerang Selatan, Banten 15310",
+    "jam_operasional": "Senin-Minggu 07.00-22.00",
+    "fasilitas": [
+      "toilet",
+      "ramah disabilitas",
+      "live music"
+    ],
+    "min_harga": 50000,
+    "max_harga": 100000,
+    "suasana": [
+      "cozy"
+    ],
+    "menu": {},
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "nama": "Beantown Coffee and Roastery",
+    "alamat": "Jl. Suplir Jl. Komp. BSD No.15 Blok F1, East Lengkong Gudang, Serpong Sub-District, South Tangerang City, Banten 15310",
+    "jam_operasional": "Senin-Minggu 07.00-22.00",
+    "fasilitas": [
+      "outdoor",
+      "rooftop",
+      "live music"
+    ],
+    "min_harga": 25000,
+    "max_harga": 50000,
+    "suasana": [
+      "cozy"
+    ],
+    "menu": {},
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "nama": "Kopi Nako BSD",
+    "alamat": "Jl. Edutown, Pagedangan, Kec. Pagedangan, Kabupaten Tangerang, Banten 15339",
+    "jam_operasional": "Buka 24 Jam",
+    "fasilitas": [
+      "indoor",
+      "outdoor",
+      "rooftop"
+    ],
+    "min_harga": 25000,
+    "max_harga": 50000,
+    "suasana": [
+      "cozy"
+    ],
+    "menu": {},
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "nama": "HYGGE Cafe BSD",
+    "alamat": "Jl. BSD Grand Boulevard, Sampora, Kec. Cisauk, Kabupaten Tangerang, Banten 15345",
+    "jam_operasional": "Senin-Kamis 08.00-19.00, Jumat-Minggu 08.00-22.00",
+    "fasilitas": [
+      "indoor",
+      "outdoor"
+    ],
+    "min_harga": 50000,
+    "max_harga": 175000,
+    "suasana": [
+      "aesthetic"
+    ],
+    "menu": {},
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "nama": "Afterseven Cafe - BSD",
+    "alamat": "Jl. Majorie Ave No.10, Kunciran Indah, Kec. Pagedangan, Kabupaten Tangerang, Banten 15339",
+    "jam_operasional": "Senin-Minggu 07.00-22.00",
+    "fasilitas": [
+      "toilet",
+      "rooftop"
+    ],
+    "min_harga": 50000,
+    "max_harga": 150000,
+    "suasana": [
+      "cozy"
+    ],
+    "menu": {},
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "nama": "Sabi Coffee & Eatery",
+    "alamat": "Jl. Rawa Buntu Selatan No.12 Blok F2, Rw. Buntu, Kec. Serpong, Kota Tangerang Selatan, Banten 15310",
+    "jam_operasional": "Senin-Minggu 07.00-22.00",
+    "fasilitas": [
+      "indoor",
+      "outdoor"
+    ],
+    "min_harga": 25000,
+    "max_harga": 50000,
+    "suasana": [
+      "aesthetic"
+    ],
+    "menu": {},
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "nama": "Kebun Latte",
+    "alamat": "Jl. H. Jamat No.12LA, Ciater, Kec. Serpong, Kota Tangerang Selatan, Banten 15310",
+    "jam_operasional": "Senin-Minggu 08.00-22.00",
+    "fasilitas": [
+      "indoor",
+      "outdoor",
+      "rooftop"
+    ],
+    "min_harga": 25000,
+    "max_harga": 50000,
+    "suasana": [
+      "nature"
+    ],
+    "menu": {},
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "nama": "Bluperry Coffee",
+    "alamat": "Ruko Griya Loka, Jl. Cemara Blok RC2 No.5 Sektor 1.1, Jl. Griya Loka Raya, Rw. Buntu, Bumi Serpong Damai, Kota Tangerang Selatan, Banten 15310",
+    "jam_operasional": "Senin-Minggu 07.30-22.00",
+    "fasilitas": [
+      "toilet",
+      "ramah disabilitas",
+      "live music"
+    ],
+    "min_harga": 50000,
+    "max_harga": 75000,
+    "suasana": [
+      "cozy"
+    ],
+    "menu": {},
+    "rating": 4.7
+  }
+]
